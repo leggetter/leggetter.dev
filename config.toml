@@ -5,7 +5,7 @@ theme = "hyde-hyde"
 
 [params]
     author = "Phil Leggetter"
-    description = "Developer Experience & Relations. DevRel @ [Nexmo](https://developer.nexmo.com). Advisor @ [Crosser](https://crosser.io)."
+    description = "**Phil Leggetter**<br /><br />Developer Experience & Relations. DevRel @ [Nexmo](https://developer.nexmo.com). Advisor @ [Crosser](https://crosser.io)."
     dateformat = "2 Jan, 2006"
     highlightjs = true
     highlightjsstyle = "github"

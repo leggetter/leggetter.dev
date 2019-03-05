@@ -4,7 +4,7 @@ date: 2019-03-05T14:55:38Z
 draft: false
 ---
 
-I'm a software engineer who has decided to focus on developer relations.
+I'm Phil Leggetter, a software engineer who has decided to focus on developer relations.
 
 I started my career working as a software engineer building demos and SDKs for a company focusing on financial data. From there I got interested in real-time web technologies (Comet and then WebSocket).
 
