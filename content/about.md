@@ -4,8 +4,14 @@ date: 2019-03-05T14:55:38Z
 draft: false
 ---
 
-In a search for inspiration on Tuesday 5th of March 2019 I wrote a tweet asking for ideas for content.
+I'm a software engineer who has decided to focus on developer relations.
 
-<blockquote class="twitter-tweet" align="center"><p lang="en" dir="ltr">I&#39;d like to do a bit of writing this week and need inspiration. <br><br>Do you have any questions about developer relations and experience? Or about team building? Or any other subject you think I may be able to share some thoughts on?<br><br>If so, I&#39;d love to hear them.<br><br>📮</p>&mdash; Phil Leggetter (@leggetter) <a href="https://twitter.com/leggetter/status/1102860643642822657?ref_src=twsrc%5Etfw">March 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+I started my career working as a software engineer building demos and SDKs for a company focusing on financial data. From there I got interested in real-time web technologies (Comet and then WebSocket).
 
-The articles here are inspired by thoughts and questions that followed.
+In many of my roles, I've been on the front-line of support. My time in support resulted in empathy for developers on top of my natural empathy for others.
+
+After a number of years as a developer, I realised that I most enjoyed learning about technology, creating things from what I've learned and then sharing the knowledge I'd acquired. This lead me to the world of Developer Evangelism that has morphed into Developer Advocacy - I class to be two different things.
+
+My developer relations roles include 2 years working at [Pusher](https://pusher.com), a year working on open sourcing a JavaScript developer toolkit called [BladeRunnerJS](https://bladerunnerjs.org), another year at Pusher and now 3 years at [Nexmo, the Vonage API Platform](https://nexmo.com) where I have the responsibility and privilege of leading our [growing team](https://developer.nexmo.com/team).
+
+I'm probably best known the Developer Relations space for defining the [AAARRRP Developer Relations strategy framework](https://www.leggetter.co.uk/2016/02/03/defining-developer-relations.html) ([video](https://www.youtube.com/watch?v=i7EZDYYfFmc)) which included the [DevRelOmeter](https://leggetter.github.io/devrelometer/), a visual representation of whether a group of activities means results in evangelism or advocacy.
