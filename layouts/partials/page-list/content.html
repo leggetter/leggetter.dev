@@ -1,0 +1,10 @@
+<article>
+    <header>
+        <h1 class="section__title">{{ .Title }}</h1>
+    </header>
+    <ul class="posts">
+        {{ with .Data.Pages }}
+            {{ partial "posts-list.html" . }}
+        {{ end }}
+    </ul>
+</article>

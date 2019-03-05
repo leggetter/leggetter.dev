@@ -1,0 +1,35 @@
+baseURL = "https://leggetter.dev/"
+languageCode = "en-us"
+title = "Ask @leggetter Anything"
+theme = "hyde-hyde"
+
+[params]
+    author = "Phil Leggetter"
+    description = "Developer Experience & Relations. DevRel @ [Nexmo](https://developer.nexmo.com). Advisor @ [Crosser](https://crosser.io)."
+    dateformat = "2 Jan, 2006"
+    highlightjs = true
+    highlightjsstyle = "github"
+
+    # sidebar, copyright & license
+    copyright = "Phil Leggetter"
+    license = "CC BY-SA 4.0"
+    licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+    showBuiltWith = true
+
+[params.social]
+	twitter = "leggetter"
+	github = "leggetter"
+    linkedin = "leggetter"
+    gravatar = "phil@leggetter.co.uk"
+
+[[menu.main]]
+    name = "Articles"
+    identifier = "articles"
+    weight = 100
+    url = "/articles/"
+
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 300
+    url = "/about/"
