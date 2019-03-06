@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "Ask @leggetter Anything"
 theme = "hyde-hyde"
 
+googleAnalytics = "UA-135640404-1"
+
+
 [params]
     author = "Phil Leggetter"
     description = "**Phil Leggetter**<br /><br />Developer Experience & Relations. DevRel @ [Nexmo](https://developer.nexmo.com). Advisor @ [Crosser](https://crosser.io)."
