@@ -37,7 +37,7 @@ We're lucky enough to have a reasonably good budget for travel and spend around 
 
 Spending time maintaining relationships is something that I've personally seen as being important. As the team has grown, I've had less face-to-face time with those that I used to spend quite a bit of time with. The lack of face time has resulted in relationships breaking down. So, I'm spending more time in 2019 travelling to meet my colleagues in person and having video calls with all the team.
 
-## Use Voice & Video Calls More Often
+## Use Voice & Video Calls
 
 Our team spends a lot of time in Slack. It's a fantastic tool for remote workers but also co-located teams that want to quickly communicate without the need for the time it takes to have in-person meetings.
 
