@@ -22,6 +22,7 @@ The team has grown from three full-time people and one part-timer person back in
 * [Extend](https://developer.nexmo.com/extend) - how you can use the Nexmo APIs with complementary technologies and platforms
 * [Server SDKs](https://github.com/Nexmo?utf8=%E2%9C%93&q=topic%3Aserver-sdk&type=&language=) - maintain and enhance API wrappers that make it even easier to use our APIs
 * Community - enable our internal and external community involvement and support
+* Developer onboarding experience - help more developers get up and running quickly on our platform
 
 We also have a few product-focused initiatives that will evolve with the product life cycle. For example, the Nexmo Client SDK is in "developer preview" so a lot of time is being spent working on the experience our SDKs provide, documentation, developer tooling and code samples. When the product is more mature, the focus will shift to raising awareness of the product and further demonstrating what it makes possible.
 
