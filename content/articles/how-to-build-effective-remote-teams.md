@@ -7,7 +7,7 @@ draft: false
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Some thoughts on growing and making a success of a remote / distributed team would be useful for many people - Nexmo Dev seems to do a pretty good job of it..</p>&mdash; David Low (@daviddlow) <a href="https://twitter.com/daviddlow/status/1102865173843456000?ref_src=twsrc%5Etfw">March 5, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Of [all the questions](https://github.com/leggetter/leggetter.dev/labels/question) I've recieved to date this is one of the most difficult because I feel we're not there yet. We're still working through some problems. So, what I thought I'd share here is our current team members locations, team structure along with a combination of what I've seen working, some of the issues we're presently experiencing and thoughts on how we may remedy these. In doing this, I hope others will provide feedback and pointers to help us and others improve.
+Of [all the questions](https://github.com/leggetter/leggetter.dev/labels/question) I've received to date this is one of the most difficult because I feel we're not there yet. We're still working through some problems. So, what I thought I'd share here is our current team members locations, team structure along with a combination of what I've seen working, some of the issues we're presently experiencing and thoughts on how we may remedy these. In doing this, I hope others will provide feedback and pointers to help us and others improve.
 
 **I expect to update this blog post from time to time as we learn more about building an effective remote team.**
 
