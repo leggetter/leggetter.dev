@@ -4,7 +4,7 @@
 
 {{ define "content" }}
   <div class="post-list">
-    {{ $paginator := .Paginate (where .Data.Pages "Type" "articles") }}
+    {{ $paginator := .Paginate (where (where .Site.Pages "Type" "articles") "IsPage" true ) }}
     {{ range $paginator.Pages }}
       {{ if .Draft }}
         {{ .Scratch.Set "draftPage" true }}
